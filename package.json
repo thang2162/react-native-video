@@ -4,8 +4,12 @@
     "description": "A <Video /> element for react-native",
     "main": "Video.js",
     "license": "MIT",
-    "author": "Brent Vatne <brentvatne@gmail.com> (https://github.com/brentvatne)",
+    "author": "Tone T. Thangsongcharoen <netguy87@gmail.com> (https://github.com/thang2162)",
     "contributors": [
+        {
+          "name": "Brent Vatne",
+          "email": "brentvatne@gmail.com"
+        },
         {
             "name": "Isaiah Grey",
             "email": "isaiahgrey@gmail.com"
@@ -25,7 +29,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git@github.com:react-native-video/react-native-video.git"
+        "url": "git@github.com:thang2162/react-native-video.git"
     },
     "devDependencies": {
         "@react-native-community/eslint-config": "^0.0.5",
